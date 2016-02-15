@@ -1,0 +1,18 @@
+c:\users\koushik\documents\visual studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.exe.config
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.exe
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.pdb
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.xml
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.Resources.resources
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.vbproj.GenerateResource.Cache
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.exe
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.xml
+C:\Users\koushik\Documents\Visual Studio 2013\Projects\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.pdb
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.exe.config
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.exe
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.xml
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.pdb
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.exe
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.pdb
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\bin\Debug\ConsoleIVRS.xml
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.Resources.resources
+C:\Users\koushik\Desktop\project\Code\ConsoleIVRS\ConsoleIVRS\obj\Debug\ConsoleIVRS.vbproj.GenerateResource.Cache
